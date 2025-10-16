@@ -39,8 +39,3 @@ Une application e-commerce complète développée en Java JEE avec architecture 
 - **Bootstrap 5** - Framework CSS
 - **Font Awesome** - Icônes
 - **JSTL** - Templating dans les JSP
-
-### Architecture
-- **Pattern MVC** (Model-View-Controller)
-- **DAO Pattern** - Accès aux données
-- **Service Layer** - Logique métier
