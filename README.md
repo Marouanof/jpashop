@@ -44,8 +44,3 @@ Une application e-commerce complète développée en Java JEE avec architecture 
 - **Pattern MVC** (Model-View-Controller)
 - **DAO Pattern** - Accès aux données
 - **Service Layer** - Logique métier
-
-
-
-
-## 📁 Structure du projet
