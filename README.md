@@ -5,9 +5,9 @@ Une application e-commerce complète développée en Java JEE avec architecture 
 ## 🚀 Fonctionnalités
 
 ### 👥 Gestion des utilisateurs
-- **Inscription et connexion** sécurisée
+- **Inscription et connexion
 - **Gestion de profil** utilisateur
-- **Sessions utilisateur** avec gestion des droits
+- **Sessions utilisateur** 
 
 ### 🏪 Catalogue produits
 - **Affichage des produits** avec filtres par catégorie
@@ -19,13 +19,6 @@ Une application e-commerce complète développée en Java JEE avec architecture 
 - **Ajout/Suppression** de produits
 - **Modification des quantités**
 - **Validation de commande**
-- **Historique des commandes**
-
-### 📦 Gestion des commandes
-- **Validation du panier**
-- **Vérification des stocks**
-- **Création de nouvelles commandes**
-- **Historique des achats**
 
 ## 🛠️ Technologies utilisées
 
